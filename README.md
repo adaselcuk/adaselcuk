@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that make a real impact, especially those involving web development, scalable applications, or creative engineering solutions. I am particularly open to projects working with artificial intelligence.
 - 📫 How to reach me: adaselcuk16@gmail.com or www.linkedin.com/in/ada-selcuk/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I developed a glove called iPiano with a wonderful team that helps novice piano students correct their hand posture, and it was shortlisted for an innovation award!
+- ⚡ Fun fact: I went to a visual arts high school and am very passionate about the arts. I am constantly looking on how to combine art and technology.
 - 🎯 My next goal is to contribute to an AI-based open-source project, a research project in generative AI, or and gain hands-on experience in machine learning.
 
 ## Skills
