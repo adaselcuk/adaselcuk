@@ -8,7 +8,7 @@
 - 🎯 My next goal is to contribute to an AI-based open-source project, a research project in generative AI, or and gain hands-on experience in machine learning.
 
 ## Skills
-- **Languages:** Python, C/C++, JavaScript, MATLAB
-- **Web Development:** Node.js, Express.js, React, HTML/CSS, RESTful APIs
+- **Languages:** Python, C/C++, JavaScript, Verilog, Assembly, MATLAB
+- **Web Development:** Node.js, React, Vite, TailwindCSS, HTML/CSS, RESTful APIs
 - **Databases:** MongoDB
 - **Tools:** Git/GitHub, VS Code, Microsoft Office
