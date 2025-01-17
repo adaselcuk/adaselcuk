@@ -1,14 +1,14 @@
 - 👋 Hi, I’m @adaselcuk
-- 👀 I’m interested in developing innovative, user-centric software solutions, with a growing curiosity in artificial intelligence and how it can transform everyday applications.
-- 🌱 I’m currently learning more about full-stack development, particularly optimizing JavaScript and exploring AI.
-- 💞️ I’m looking to collaborate on projects that make a real impact, especially those involving web development, scalable applications, or creative engineering solutions. I am particularly open to projects working with artificial intelligence.
+- 👀 I’m interested in developing innovative, user-centric software solutions, with a growing curiosity in artificial intelligence and robotics, and how their intersection can transform everyday applications.
+- 🌱 I’m currently looking to be more involved in back-end projects and learn more about databases.
+- 💞️ I’m always looking to learn and collaborate on projects which have intersections between different areas of technology, especially those that involve hardware, robotics, mathematics, and creative coding (I am super interested in creating art via coding!). I am particularly open to projects working with artificial intelligence and machine learning.
 - 📫 How to reach me: adaselcuk16@gmail.com or www.linkedin.com/in/ada-selcuk/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I went to a visual arts high school and draw everyday. I am constantly looking on how to combine art and technology.
+- ⚡ Fun fact: I went to a visual arts high school (hence the blue hair) and draw everyday! This year, I want to delve into the realm of creative coding and generative art more.
 - 🎯 My next goal is to contribute to an AI-based open-source project, a research project in generative AI, or and gain hands-on experience in machine learning.
 
 ## Skills
-- **Languages:** Python, C/C++, JavaScript, Verilog, Assembly, MATLAB
-- **Web Development:** Node.js, React, Vite, TailwindCSS, HTML/CSS, RESTful APIs
-- **Databases:** MongoDB
-- **Tools:** Git/GitHub, VS Code, Microsoft Office
+- **Languages:** Python, C/C++, JavaScript/TypeScript, Verilog, Assembly, MATLAB
+- **Web Development and Databases:** Node.js, React, Vite, TailwindCSS, HTML/CSS, RESTful APIs, MongoDB
+- **Libraries:** OpenCV, NumPy, Matplotlib, WordPress
+- **Tools:** Git/GitHub, ROS, Docker, Linux, VS Code, Figma, Adobe Illustrator, Microsoft Office, ModelSim, Quartus, LTspice
