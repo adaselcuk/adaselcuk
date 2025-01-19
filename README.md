@@ -9,6 +9,6 @@
 
 ## Skills
 - **Languages:** Python, C/C++, JavaScript/TypeScript, Verilog, Assembly, MATLAB
-- **Web Development and Databases:** Node.js, React, Vite, TailwindCSS, HTML/CSS, RESTful APIs, MongoDB
+- **Web Development and Databases:** Node.js, React, TailwindCSS, Framer Motion, HTML/CSS, RESTful APIs, MongoDB
 - **Libraries:** OpenCV, NumPy, Matplotlib, WordPress
 - **Tools:** Git/GitHub, ROS, Docker, Linux, VS Code, Figma, Adobe Illustrator, Microsoft Office, ModelSim, Quartus, LTspice
